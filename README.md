@@ -1,0 +1,4 @@
+- ( •̀ ω •́ )✧ Greetings, I’m kirne
+-  I’m interested in game development and learning how to code
+-  I’m currently learning C# nad how to utilise Unity
+-  Fun fact: I'm pentalingual
